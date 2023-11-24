@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSizeForMainText">24sp</dimen>
+    <dimen name="textSizeForRegularText">20sp</dimen>
+    <dimen name="margin5dp">5dp</dimen>
+    <dimen name="margin10dp">10dp</dimen>
+    <dimen name="fillDimen">0dp</dimen>
+    <dimen name="eighteenSp">18sp</dimen>
+    <dimen name="margin20dp">20dp</dimen>
+</resources>

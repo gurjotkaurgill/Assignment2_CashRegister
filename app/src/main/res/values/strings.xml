@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="manager">MANAGER</string>
+    <string name="product_type_hint">Product Type</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn0">0</string>
+    <string name="btnC">C</string>
+    <string name="product_total_hint">Total</string>
+    <string name="btnBuy">BUY</string>
+    <string name="product_quantity_hint">Quantity</string>
+    <string name="history">HISTORY</string>
+    <string name="restock">RESTOCK</string>
+    <string name="enter_new_quantity">Enter quantity to add</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="restockProduct">Select a product to update its quantity</string>
+
+</resources>
